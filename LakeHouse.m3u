@@ -17,7 +17,7 @@ http://192.168.68.51:5004/auto/ch19-1
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
 #EXTINF:-1 tvg-id="CICA.ca" tvg-name="TVO" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/tvo.png" group-title="ANTENNA;CANADA",TVO [COLOR lime]-ANTENNA-[/COLOR]
 http://192.168.68.51:5004/auto/ch18-1
-#EXTINF:-1 tvg-id="CFPL.ca" tvg-name="CTV2 London" tvg-chno="10" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CTV/CTV2_London.png" group-title="ANTENNA;CANADA",CTV2 London [COLOR lime]-ANTENNA-[/COLOR]
+#EXTINF:-1 tvg-id="CFPL.ca" tvg-name="CTV2 London" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/VTC/CTV2_London.png" group-title="ANTENNA;CANADA",CTV2 London [COLOR lime]-ANTENNA-[/COLOR]
 http://192.168.68.51:5004/auto/ch10-1
 #EXTINF:-1 tvg-id="DubaiOne(src01).ae" tvg-name="Dubai One" tvg-chno="11" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/brand/dubaione-logo.png" group-title="INT ENG",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8

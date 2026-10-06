@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey88ddeuqgxw4yg1v"
-#EXTINF:-1 tvg-id="CKCODT.ca" tvg-name="CTV Kitchener" tvg-chno="1" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CTV/CTV_Kitchener.png" group-title="ANTENNA;CANADA",CTV Kitchener
+#EXTINF:-1 tvg-id="CKCODT.ca" tvg-name="CTV Kitchener" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/VTC/CTV_Kitchener.png" group-title="ANTENNA;CANADA",CTV Kitchener
 http://192.168.68.88:5004/auto/ch13-1
 #EXTINF:-1 tvg-id="CKVRDT.ca" tvg-name="CTV2 Barrie" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/ctv2.png" group-title="ANTENNA;CANADA",CTV2 Barrie
 http://192.168.68.88:5004/auto/ch35-1
@@ -1270,9 +1270,9 @@ http://198.204.240.250:82/live/cctv4k.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alternate" tvg-chno="10000" tvg-logo="" group-title="LABEL",[COLOR aqua]Alternate[/COLOR]
 https://alternate
-#EXTINF:-1 tvg-id="CFTODT.ca" tvg-name="CTV Toronto" tvg-chno="10001" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CTV/CTV_Toronto.png" group-title="ANTENNA;CANADA",CTV Toronto
+#EXTINF:-1 tvg-id="CFTODT.ca" tvg-name="CTV Toronto" tvg-chno="10001" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/VTC/CTV_Toronto.png" group-title="ANTENNA;CANADA",CTV Toronto
 http://192.168.68.88:5004/auto/ch8-1
-#EXTINF:-1 tvg-id="CFPL.ca" tvg-name="CTV2 London" tvg-chno="10002" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/ctv2.png" group-title="ANTENNA;CANADA",CTV2 London
+#EXTINF:-1 tvg-id="CFPL.ca" tvg-name="CTV2 London" tvg-chno="10002" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/VTC/CTV2_London.png" group-title="ANTENNA;CANADA",CTV2 London
 http://192.168.68.88:5004/auto/ch10-1
 #EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="Global TV Toronto (Paris)" tvg-chno="10003" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/GlobalToronto.png" group-title="ANTENNA;CANADA",Global TV Toronto (Paris)
 http://192.168.68.88:5004/auto/ch23-1
