@@ -876,8 +876,6 @@ https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alkass 7" tvg-chno="3037" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/qa/alkass7.png" group-title="SPORTS",Alkass 7
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="H.N.I.C Punjabi (Event Only)" tvg-chno="3089" tvg-logo="https://www.omnitv.ca/wp-content/uploads/2023/10/HNIC_2023-PUNJABI_TALENT_1500x500-OCT-13-2023.jpg" group-title="CANADA;SPORTS",H.N.I.C Punjabi (Event Only)
-https://snhls.akamaized.net/hls/live/1023793/internal-hls7/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-chno="3090" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/refs/heads/master/in/ddsports.png" group-title="SPORTS",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARSPORTS 1" tvg-chno="3091" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/refs/heads/master/in/starsports1.png" group-title="SPORTS",STARSPORTS 1
