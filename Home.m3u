@@ -7,13 +7,13 @@ http://192.168.68.88:5004/auto/ch35-1
 http://192.168.68.88:5004/auto/ch17-1
 #EXTINF:-1 tvg-id="CICA.ca" tvg-name="TVO" tvg-chno="4" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/TVO-ME.png" group-title="ANTENNA;CANADA",TVO
 http://192.168.68.88:5004/auto/ch19-1
-#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-name="CBC Toronto" tvg-chno="5" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCToronto.png" group-title="ANTENNA;CANADA",CBC Toronto
+#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-name="CBC Toronto" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Toronto.png" group-title="ANTENNA;CANADA",CBC Toronto
 http://192.168.68.88:5004/auto/ch20-3
 #EXTINF:-1 tvg-id="CITSDT.ca" tvg-name="YES TV" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/yestv.png" group-title="ANTENNA;CANADA",YES TV
 http://192.168.68.88:5004/auto/ch14-1
 #EXTINF:-1 tvg-id="CITYDT.ca" tvg-name="City" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/citytv.png" group-title="ANTENNA;CANADA",City
 http://192.168.68.88:5004/auto/ch18-2
-#EXTINF:-1 tvg-id="CBLFT.ca" tvg-name="Radio-Canada Ontario" tvg-chno="8" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_Ontario.png" group-title="ANTENNA;CANADA;FR INT",Radio-Canada Ontario
+#EXTINF:-1 tvg-id="CBLFT.ca" tvg-name="Radio-Canada Ontario" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CRS/ICI_Ontario.png" group-title="ANTENNA;CANADA;FR INT",Radio-Canada Ontario
 http://192.168.68.88:5004/auto/ch25-3
 #EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CHCH" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/chch.png" group-title="ANTENNA;CANADA",CHCH
 http://192.168.68.88:5004/auto/ch15-3
@@ -202,9 +202,9 @@ https://hls.uvagut.tv/hls/uvagut/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CFMTDT.ca" tvg-name="OMNI1" tvg-chno="141" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/omni1.png" group-title="ANTENNA;CANADA",OMNI1
+#EXTINF:-1 tvg-id="CFMTDT.ca" tvg-name="OMNI1" tvg-chno="141" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/INMO/omni1.png" group-title="ANTENNA;CANADA",OMNI1
 http://192.168.68.88:5004/auto/ch30-2
-#EXTINF:-1 tvg-id="CJMTDT.ca" tvg-name="OMNI2" tvg-chno="142" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/omni2.png" group-title="ANTENNA;CANADA",OMNI2
+#EXTINF:-1 tvg-id="CJMTDT.ca" tvg-name="OMNI2" tvg-chno="142" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/INMO/omni2.png" group-title="ANTENNA;CANADA",OMNI2
 http://192.168.68.88:5004/auto/ch26-3
 #EXTINF:-1 tvg-id="ABCKidsABCFamilyNSW.au" tvg-name="ABC Family" tvg-chno="143" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" group-title="INT ENG",ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8
@@ -217,27 +217,27 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=656df2849d5ac400083be647&_is_live=1
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 200" tvg-chno="200" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/nz/ch200.png" group-title="INT ENG",Channel 200
 plugin://plugin.video.nz.freeview/?_=play&slug=mjh-ch200&_is_live=1&_noresume=.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Crime Italy" tvg-chno="201" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/512px-Rakuten_TV_logo-blue.png" group-title="ITALIAN",RakutenTV Crime Italy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Crime Italy" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/512px-Rakuten_TV_logo-blue.png" group-title="ITALIAN",RakutenTV Crime Italy
 plugin://slyguy.samsung.tv.plus/?_=play&id=ITBD600003E2&_is_live=1&_noresume=.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Action Movies Italia" tvg-chno="202" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/512px-Rakuten_TV_logo-red.png" group-title="ITALIAN",RakutenTV Action Movies Italia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Action Movies Italia" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/512px-Rakuten_TV_logo-red.png" group-title="ITALIAN",RakutenTV Action Movies Italia
 plugin://slyguy.samsung.tv.plus/?_=play&id=IT2600003FM&_is_live=1&_noresume=.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Comedy Movies Italia" tvg-chno="203" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/512px-Rakuten_TV_logo-green.png" group-title="ITALIAN",RakutenTV Comedy Movies Italia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Comedy Movies Italia" tvg-chno="203" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/512px-Rakuten_TV_logo-green.png" group-title="ITALIAN",RakutenTV Comedy Movies Italia
 plugin://slyguy.samsung.tv.plus/?_=play&id=IT2600007WQ&_is_live=1&_noresume=.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Spotlight Movies Italia" tvg-chno="204" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/512px-Rakuten_TV_logo-purple.png" group-title="ITALIAN",RakutenTV Spotlight Movies Italia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Spotlight Movies Italia" tvg-chno="204" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/512px-Rakuten_TV_logo-purple.png" group-title="ITALIAN",RakutenTV Spotlight Movies Italia
 https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Thriller Italia" tvg-chno="205" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/512px-Rakuten_TV_logo-white.png" group-title="ITALIAN",RakutenTV Thriller Italia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Thriller Italia" tvg-chno="205" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/512px-Rakuten_TV_logo-white.png" group-title="ITALIAN",RakutenTV Thriller Italia
 https://rakuten-thriller-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Classico Italia" tvg-chno="206" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/512px-Rakuten_TV_logo-yellow.png" group-title="ITALIAN",RakutenTV Classico Italia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Classico Italia" tvg-chno="206" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/512px-Rakuten_TV_logo-yellow.png" group-title="ITALIAN",RakutenTV Classico Italia
 https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Action Movies UK" tvg-chno="207" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/rakuten-solid-red.png" group-title="INT ENG",RakutenTV Action Movies UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Action Movies UK" tvg-chno="207" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/rakuten-solid-red.png" group-title="INT ENG",RakutenTV Action Movies UK
 plugin://slyguy.samsung.tv.plus/?_=play&id=GB2600015OS&_is_live=1&_noresume=.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Comedy Movies UK" tvg-chno="208" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/rakuten-solid-green.png" group-title="INT ENG",RakutenTV Comedy Movies UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Comedy Movies UK" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/rakuten-solid-green.png" group-title="INT ENG",RakutenTV Comedy Movies UK
 https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Family Movies UK" tvg-chno="209" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/rakuten-solid-purple.png" group-title="INT ENG",RakutenTV Family Movies UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Family Movies UK" tvg-chno="209" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/rakuten-solid-purple.png" group-title="INT ENG",RakutenTV Family Movies UK
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Shows UK" tvg-chno="210" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/rakuten-solid-blue.png" group-title="INT ENG",Rakuten Shows UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Shows UK" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/rakuten-solid-blue.png" group-title="INT ENG",Rakuten Shows UK
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Movies UK" tvg-chno="211" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Rakuten/rakuten-solid-pink.png" group-title="INT ENG",Rakuten Top Movies UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Movies UK" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/rakuten-solid-pink.png" group-title="INT ENG",Rakuten Top Movies UK
 plugin://slyguy.samsung.tv.plus/?_=play&id=GB2600018PD&_is_live=1&_noresume=.pvr
 
 
@@ -274,7 +274,7 @@ https://plaionpictures-cinemadame-1-it.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="ＷＯＷＯＷシネマ.jp (src05)" tvg-name="WOWOW Cinema" tvg-chno="299" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/jp/wowowcinema.png" group-title="OTHER INT",WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caribbean Channels" tvg-chno="300" tvg-logo="" group-title="LABEL",[COLOR aqua]Caribbean Channels[/COLOR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caribbean Channels" tvg-chno="300" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/flags/caricom.png" group-title="LABEL",[COLOR aqua]Caribbean Channels[/COLOR]
 https://caribbean
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBN-BVI (BR. VIRGIN IS.)" tvg-chno="301" tvg-logo="https://pbs.twimg.com/profile_images/730828757649502209/YiKYuNZi_400x400.jpg" group-title="CARIBBEAN;INT ENG",CBN-BVI (BR. VIRGIN IS.)
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
@@ -314,7 +314,7 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 plugin://slyguy.samsung.tv.plus/?_=play&id=USBA3800004EL&_is_live=1&_noresume=.pvr
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]French Channels[/COLOR]" tvg-chno="500" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Flags/French.png" group-title="LABEL",[COLOR aqua]French Language Channels[/COLOR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]French Channels[/COLOR]" tvg-chno="500" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/flags/French.png" group-title="LABEL",[COLOR aqua]French Language Channels[/COLOR]
 https://french
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/tf1.png" group-title="FR INT;FRANCE",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
@@ -355,7 +355,7 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="CFJPDT(French).ca" tvg-name="noovo" tvg-chno="524" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/noovo.png" group-title="FR INT;CANADA",noovo
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="La Chaîne Jeunesse" tvg-chno="529" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/SRCkids.png" group-title="CANADA;KIDS;FR INT",La Chaîne Jeunesse
+#EXTINF:-1 tvg-id="" tvg-name="La Chaîne Jeunesse" tvg-chno="529" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CRS/SRCkids.png" group-title="CANADA;KIDS;FR INT",La Chaîne Jeunesse
 https://amagi-streams.akamaized.net/hls/live/2120485/rcjeunesse/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="530" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400008DK_20250729T185252SQUARE.png" group-title="FR INT;CANADA",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
@@ -403,7 +403,7 @@ https://s125.ipcamlive.com/streams/7dmahkwzletrjx07j/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Willard Public Library Ghost Cams - Stairway" tvg-chno="616" tvg-logo="" group-title="CAM",Willard Public Library Ghost Cams - Stairway
 https://s126.ipcamlive.com/streams/7e4kndtnvi9eyov1u/stream.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]Radiovision & Music[/COLOR]" tvg-chno="700" tvg-logo="" group-title="LABEL",[COLOR aqua]Radiovision & Music[/COLOR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]Radiovision & Music[/COLOR]" tvg-chno="700" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/music.png" group-title="LABEL",[COLOR aqua]Radiovision & Music[/COLOR]
 https://music
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PiterPanTV" tvg-chno="701" tvg-logo="https://www.piterpan.it/wp-content/uploads/2020/01/logo_piterpan.png" group-title="ITALIAN;MUSIC",PiterPanTV
 https://str03.fluid.stream/RadioPiterpanTV/livestream/playlist.m3u8
@@ -486,7 +486,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS Tampa (WEDU)" tvg-chno="821" tvg-logo="https://image.pbs.org/bento3-prod/wedu-bento-live-pbs/02_STATION_LOGOS/70e7b25ec4_WEDU_LOGO_NAVY_WEB.png" group-title="USA",PBS Tampa (WEDU)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]Italian[/COLOR]" tvg-chno="1000" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/Flags/Italian.png" group-title="LABEL;ITALIAN",[COLOR aqua]Italian Language Channels[/COLOR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]Italian[/COLOR]" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/flags/Italian.png" group-title="LABEL;ITALIAN",[COLOR aqua]Italian Language Channels[/COLOR]
 https://italian
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI 1" tvg-chno="1001" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/rai1.png" group-title="ITALIAN",RAI 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -778,7 +778,7 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroNews" tvg-chno="1999" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="ITALIAN;NEWS",EuroNews
 https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NEWS-" tvg-chno="2000" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/categories/news.png" group-title="LABEL",[COLOR aqua]-NEWS-[/COLOR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NEWS-" tvg-chno="2000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/news.png" group-title="LABEL",[COLOR aqua]-NEWS-[/COLOR]
 http://news
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC News Australia" tvg-chno="2001" tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2014/12/ABC-News-24-1.png" group-title="NEWS",ABC News Australia
 https://c.mjh.nz/abc-news.m3u8
@@ -841,7 +841,7 @@ https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/chunklist.
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-SPORTS-" tvg-chno="3000" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/categories/sports.png" group-title="LABEL",-SPORTS-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-SPORTS-" tvg-chno="3000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/sports.png" group-title="LABEL",-SPORTS-
 http://sports
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 1" tvg-chno="3001" tvg-logo="https://korafoot.com/wp-content/uploads/2023/02/Bahrain-Sport-1_live.png" group-title="SPORTS",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -1065,7 +1065,7 @@ http://216.106.179.7:8080/ESPN6HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN7SS.cl" tvg-name="ESPN 7" tvg-chno="3717" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn7.png" group-title="SPORTS",ESPN 7
 http://216.106.179.7:8080/ESPN7HD/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-ROGERS LOCAL TV SECTION BELOW-" tvg-chno="4000" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="LABEL",-ROGERS LOCAL TV SECTION BELOW-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-ROGERS LOCAL TV SECTION BELOW-" tvg-chno="4000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/Rogers-Emblem.png" group-title="LABEL",-ROGERS LOCAL TV SECTION BELOW-
 https://rogers-start
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Barrie Cable 10" tvg-chno="4010" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Barrie Cable 10
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card4/chunklist.m3u8
@@ -1278,7 +1278,7 @@ http://192.168.68.88:5004/auto/ch10-1
 http://192.168.68.88:5004/auto/ch23-1
 #EXTINF:-1 tvg-id="TVO(English).ca" tvg-name="TVO" tvg-chno="10004" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/tvo.png" group-title="ANTENNA;CANADA",TVO (Paris)
 http://192.168.68.88:5004/auto/ch22-1
-#EXTINF:-1 tvg-id="CBCToronto(English).ca" tvg-name="CBC Toronto" tvg-chno="10005" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCToronto.png" group-title="CANADA",CBC Toronto (web)
+#EXTINF:-1 tvg-id="CBCToronto(English).ca" tvg-name="CBC Toronto" tvg-chno="10005" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Toronto.png" group-title="CANADA",CBC Toronto (web)
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000033/CBCRCLINEAR_TOR_ETT/master_3000.m3u8
 
 #EXTINF:-1 tvg-id="CBLFTDT(French).ca" tvg-name="Radio-Canada Ontario" tvg-chno="10008" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_Ontario.png" group-title="CANADA",Radio-Canada Ontario (web)
@@ -1364,60 +1364,60 @@ https://i.mjh.nz/.r/tvnz-duke.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]Timeshift[/COLOR]" tvg-chno="20000" tvg-logo="" group-title="LABEL",[COLOR aqua]Timeshift[/COLOR]
 https://timeshift
 
-#EXTINF:-1 tvg-id="CBCStJohns(English).ca" tvg-name="CBC St. Johns" tvg-chno="20001" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCSt_Johns.png" group-title="CANADA",CBC St. Johns
+#EXTINF:-1 tvg-id="CBCStJohns(English).ca" tvg-name="CBC St. Johns" tvg-chno="20001" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_St_Johns.png" group-title="CANADA",CBC St. Johns
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000026/CBCRCLINEAR_TOR_ATJ/master_3000.m3u8
-#EXTINF:-1 tvg-id="CBCT(English).ca" tvg-name="CBC Charlottetown" tvg-chno="20002" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCCharlottetown.png" group-title="CANADA",CBC Charlottetown
+#EXTINF:-1 tvg-id="CBCT(English).ca" tvg-name="CBC Charlottetown" tvg-chno="20002" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Charlottetown.png" group-title="CANADA",CBC Charlottetown
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000029/CBCRCLINEAR_TOR_ATC/master_3000.m3u8
-#EXTINF:-1 tvg-id="CBCHalifax(English).ca" tvg-name="CBC Halifax" tvg-chno="20003" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCHalifax.png" group-title="CANADA",CBC Halifax
+#EXTINF:-1 tvg-id="CBCHalifax(English).ca" tvg-name="CBC Halifax" tvg-chno="20003" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Halifax.png" group-title="CANADA",CBC Halifax
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000031/CBCRCLINEAR_TOR_ATH/master_3000.m3u8
-#EXTINF:-1 tvg-id="CBAT(English).ca" tvg-name="CBC Fredericton" tvg-chno="20004" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCFredericton.png" group-title="CANADA",CBC Fredericton
+#EXTINF:-1 tvg-id="CBAT(English).ca" tvg-name="CBC Fredericton" tvg-chno="20004" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Fredericton.png" group-title="CANADA",CBC Fredericton
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000030/CBCRCLINEAR_TOR_ATF/master_3000.m3u8
 
-#EXTINF:-1 tvg-id="CBAFTDT(French).ca" tvg-name="Radio-Canada Acadie" tvg-chno="20011" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_Acadie.png" group-title="CANADA",Radio-Canada Acadie
+#EXTINF:-1 tvg-id="CBAFTDT(French).ca" tvg-name="Radio-Canada Acadie" tvg-chno="20011" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CRS/ICI_Acadie.png" group-title="CANADA",Radio-Canada Acadie
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 
-#EXTINF:-1 tvg-id="CBMTCBCMontreal(English).ca" tvg-name="CBC Montreal" tvg-chno="21001" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCMontreal.png" group-title="CANADA",CBC Montreal
+#EXTINF:-1 tvg-id="CBMTCBCMontreal(English).ca" tvg-name="CBC Montreal" tvg-chno="21001" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Montreal.png" group-title="CANADA",CBC Montreal
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000034/CBCRCLINEAR_TOR_ETM/master_3000.m3u8
-#EXTINF:-1 tvg-id="CBCOttawa(English).ca" tvg-name="CBC Ottawa" tvg-chno="21002" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCOttawa.png" group-title="CANADA",CBC Ottawa
+#EXTINF:-1 tvg-id="CBCOttawa(English).ca" tvg-name="CBC Ottawa" tvg-chno="21002" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Ottawa.png" group-title="CANADA",CBC Ottawa
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000035-b/CBCRCLINEAR_TOR_ETO/master_3000.m3u8
-#EXTINF:-1 tvg-id="CBCTelevisionWindsor9(English).ca" tvg-name="CBC Windsor" tvg-chno="21003" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCWindsor.png" group-title="CANADA",CBC Windsor
+#EXTINF:-1 tvg-id="CBCTelevisionWindsor9(English).ca" tvg-name="CBC Windsor" tvg-chno="21003" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Windsor.png" group-title="CANADA",CBC Windsor
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000032/CBCRCLINEAR_TOR_ETW/master_3000.m3u8
 
-#EXTINF:-1 tvg-id="CBFTDT(French).ca" tvg-name="Radio-Canada Montreal" tvg-chno="21011" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_Montreal.png" group-title="CANADA",Radio-Canada Montreal
+#EXTINF:-1 tvg-id="CBFTDT(French).ca" tvg-name="Radio-Canada Montreal" tvg-chno="21011" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CRS/ICI_Montreal.png" group-title="CANADA",Radio-Canada Montreal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 
-#EXTINF:-1 tvg-id="CBCWinnipeg(English).ca" tvg-name="CBC Winnipeg" tvg-chno="22001" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCWinnipeg.png" group-title="CANADA",CBC Winnipeg
+#EXTINF:-1 tvg-id="CBCWinnipeg(English).ca" tvg-name="CBC Winnipeg" tvg-chno="22001" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Winnipeg.png" group-title="CANADA",CBC Winnipeg
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000040/CBCRCLINEAR_TOR_CTW/master_3000.m3u8
-#EXTINF:-1 tvg-id="CBCSaskatchewan(English).ca" tvg-name="CBC Regina" tvg-chno="22002" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCRegina.png" group-title="CANADA",CBC Regina
+#EXTINF:-1 tvg-id="CBCSaskatchewan(English).ca" tvg-name="CBC Regina" tvg-chno="22002" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Regina.png" group-title="CANADA",CBC Regina
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000037/CBCRCLINEAR_TOR_STR/master_3000.m3u8
 
-#EXTINF:-1 tvg-id="CBWFTDT(French).ca" tvg-name="Radio-Canada Manitoba" tvg-chno="22011" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_Manitoba.png" group-title="CANADA",Radio-Canada Manitoba
+#EXTINF:-1 tvg-id="CBWFTDT(French).ca" tvg-name="Radio-Canada Manitoba" tvg-chno="22011" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CRS/ICI_Manitoba.png" group-title="CANADA",Radio-Canada Manitoba
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
-#EXTINF:-1 tvg-id="CBKFTDT(French).ca" tvg-name="Radio-Canada Saskatchewan" tvg-chno="22012" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_Saskatchewan.png" group-title="CANADA",Radio-Canada Saskatchewan
+#EXTINF:-1 tvg-id="CBKFTDT(French).ca" tvg-name="Radio-Canada Saskatchewan" tvg-chno="22012" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CRS/ICI_Saskatchewan.png" group-title="CANADA",Radio-Canada Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 
-#EXTINF:-1 tvg-id="CBCCalgary(English).ca" tvg-name="CBC Calgary" tvg-chno="23001" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCCalgary.png" group-title="CANADA",CBC Calgary
+#EXTINF:-1 tvg-id="CBCCalgary(English).ca" tvg-name="CBC Calgary" tvg-chno="23001" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Calgary.png" group-title="CANADA",CBC Calgary
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000036/CBCRCLINEAR_TOR_MTC/master_3000.m3u8
-#EXTINF:-1 tvg-id="CBCEdmonton(English).ca" tvg-name="CBC Edmonton" tvg-chno="23002" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCEdmonton.png" group-title="CANADA",CBC Edmonton
+#EXTINF:-1 tvg-id="CBCEdmonton(English).ca" tvg-name="CBC Edmonton" tvg-chno="23002" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Edmonton.png" group-title="CANADA",CBC Edmonton
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000038/CBCRCLINEAR_TOR_MTE/master_3000.m3u8
-#EXTINF:-1 tvg-id="CFYK(English).ca" tvg-name="CBC Yellowknife" tvg-chno="23003" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCYellowknife.png" group-title="CANADA",CBC Yellowknife
+#EXTINF:-1 tvg-id="CFYK(English).ca" tvg-name="CBC Yellowknife" tvg-chno="23003" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Yellowknife.png" group-title="CANADA",CBC Yellowknife
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000039/CBCRCLINEAR_TOR_MTN/master_3000.m3u8
-#EXTINF:-1 tvg-id="OMNIPrairies(English).ca" tvg-name="OMNI Prairies" tvg-chno="23004" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/OMNI_Alberta.svg/174px-OMNI_Alberta.svg.png" group-title="CANADA",OMNI Prairies
+#EXTINF:-1 tvg-id="OMNIPrairies(English).ca" tvg-name="OMNI Prairies" tvg-chno="23004" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/INMO/omniAlberta.png" group-title="CANADA",OMNI Prairies
 https://omniprairiesnextgen.akamaized.net/6387419378112/us-west-2/89871584001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYmR6eXpkLmVncmVzcy5rdjl5ZGgiLCJhY2NvdW50X2lkIjoiODk4NzE1ODQwMDEiLCJlaG4iOiJvbW5pcHJhaXJpZXNuZXh0Z2VuLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjg5ODcxNTg0MDAxIl0sImp0aSI6IjYzODc0MTkzNzgxMTIifQ.LOqgFAfr3GOpZ91aRJ3SzgDEiKr_1rh2kv3KYArRIDQ/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-id="CBXFTDT(French).ca" tvg-name="Radio-Canada Alberta" tvg-chno="23011" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_Alberta.png" group-title="CANADA",Radio-Canada Alberta
+#EXTINF:-1 tvg-id="CBXFTDT(French).ca" tvg-name="Radio-Canada Alberta" tvg-chno="23011" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CRS/ICI_Alberta.png" group-title="CANADA",Radio-Canada Alberta
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
 
 
-#EXTINF:-1 tvg-id="CBCVancouver(English).ca" tvg-name="CBC Vancouver" tvg-chno="24001" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/CBC/CBCVancouver.png" group-title="CANADA",CBC Vancouver
+#EXTINF:-1 tvg-id="CBCVancouver(English).ca" tvg-name="CBC Vancouver" tvg-chno="24001" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBCVancouver.png" group-title="CANADA",CBC Vancouver
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000041/CBCRCLINEAR_TOR_PTV/master_3000.m3u8
 
-#EXTINF:-1 tvg-id="OMNIVancouver(English).ca" tvg-name="OMNIBC" tvg-chno="24002" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/omni.png" group-title="CANADA",OMNIBC
+#EXTINF:-1 tvg-id="OMNIVancouver(English).ca" tvg-name="OMNIBC" tvg-chno="24002" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/INMO/omniBC.png" group-title="CANADA",OMNIBC
 https://omnibcnextgen.akamaized.net/6387421119112/us-west-2/89871584001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYmR6eXpkLmVncmVzcy5rdjl5ZGgiLCJhY2NvdW50X2lkIjoiODk4NzE1ODQwMDEiLCJlaG4iOiJvbW5pYmNuZXh0Z2VuLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjg5ODcxNTg0MDAxIl0sImp0aSI6IjYzODc0MjExMTkxMTIifQ.cELU0ZtxFoKzlMqj_GajGwXfGvw9nyTkk0PLwjt8GAA/playlist-hls.m3u8
 
 #EXTINF:-1 tvg-id="KMEXDT.us" tvg-name="Univision West" tvg-chno="24010" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/univision.png" group-title="OTHER INT",Univision West (KMEX-DT)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-id="CBUFTDT(French).ca" tvg-name="Radio-Canada Colombie-Britannique" tvg-chno="24011" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_BC.png" group-title="CANADA",Radio-Canada Colombie-Britannique
+#EXTINF:-1 tvg-id="CBUFTDT(French).ca" tvg-name="Radio-Canada Colombie-Britannique" tvg-chno="24011" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CRS/ICI_BC.png" group-title="CANADA",Radio-Canada Colombie-Britannique
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork(Pacific).us" tvg-name="Adult Swim West" tvg-chno="24021" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/adultswim.png" group-title="USA",Adult Swim West
