@@ -1133,7 +1133,7 @@ https://livedrm.akamaized.net/hls/live/1021686/rtv/m37_card1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV NL: St. John's Cable 9" tvg-chno="4903" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NL",Rogers TV NL: St. John's Cable 9
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m37_card2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FRINGE ANTENNA-" tvg-chno="5000" tvg-logo="" group-title="LABEL",[COLOR orange]-FRINGE ANTENNA-[/COLOR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FRINGE ANTENNA-" tvg-chno="5000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/antenna.png" group-title="LABEL",[COLOR orange]-FRINGE ANTENNA-[/COLOR]
 http://maybe
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Buffalo" tvg-chno="5021" tvg-logo="https://www.wgrz.com/assets/shared-images/logos/wgrz.png" group-title="USA ANTENNA",NBC Buffalo
