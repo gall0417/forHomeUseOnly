@@ -1065,7 +1065,7 @@ http://216.106.179.7:8080/ESPN6HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN7SS.cl" tvg-name="ESPN 7" tvg-chno="3717" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn7.png" group-title="SPORTS",ESPN 7
 http://216.106.179.7:8080/ESPN7HD/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-ROGERS LOCAL TV SECTION BELOW-" tvg-chno="4000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/Rogers-Emblem.png" group-title="LABEL",-ROGERS LOCAL TV SECTION BELOW-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-ROGERS LOCAL TV SECTION BELOW-" tvg-chno="4000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/Sregor/Rogers-Emblem.png" group-title="LABEL",-ROGERS LOCAL TV SECTION BELOW-
 https://rogers-start
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Barrie Cable 10" tvg-chno="4010" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Barrie Cable 10
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card4/chunklist.m3u8
