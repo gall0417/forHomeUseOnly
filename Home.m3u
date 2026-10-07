@@ -11,7 +11,7 @@ http://192.168.68.88:5004/auto/ch19-1
 http://192.168.68.88:5004/auto/ch20-3
 #EXTINF:-1 tvg-id="CITSDT.ca" tvg-name="YES TV" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/yestv.png" group-title="ANTENNA;CANADA",YES TV
 http://192.168.68.88:5004/auto/ch14-1
-#EXTINF:-1 tvg-id="CITYDT.ca" tvg-name="City" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/citytv.png" group-title="ANTENNA;CANADA",City
+#EXTINF:-1 tvg-id="CITYDT.ca" tvg-name="CityTV" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/Sregor/CityTV-Toronto.png" group-title="ANTENNA;CANADA",CityTV
 http://192.168.68.88:5004/auto/ch18-2
 #EXTINF:-1 tvg-id="CBLFT.ca" tvg-name="Radio-Canada Ontario" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CRS/ICI_Ontario.png" group-title="ANTENNA;CANADA;FR INT",Radio-Canada Ontario
 http://192.168.68.88:5004/auto/ch25-3
