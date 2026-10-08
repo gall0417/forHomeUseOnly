@@ -322,7 +322,7 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 plugin://slyguy.samsung.tv.plus/?_=play&id=USBA3800004EL&_is_live=1&_noresume=.pvr
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]French Channels[/COLOR]" tvg-chno="500" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/flags/French.png" group-title="LABEL",[COLOR aqua]French Language Channels[/COLOR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]French Channels[/COLOR]" tvg-chno="500" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/flags/france.png" group-title="LABEL",[COLOR aqua]French Language Channels[/COLOR]
 https://french
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/tf1.png" group-title="FR INT;FRANCE",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
@@ -494,7 +494,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS Tampa (WEDU)" tvg-chno="821" tvg-logo="https://image.pbs.org/bento3-prod/wedu-bento-live-pbs/02_STATION_LOGOS/70e7b25ec4_WEDU_LOGO_NAVY_WEB.png" group-title="USA",PBS Tampa (WEDU)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]Italian[/COLOR]" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/flags/Italian.png" group-title="LABEL;ITALIAN",[COLOR aqua]Italian Language Channels[/COLOR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]Italian[/COLOR]" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/flags/italy.png" group-title="LABEL;ITALIAN",[COLOR aqua]Italian Language Channels[/COLOR]
 https://italian
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI 1" tvg-chno="1001" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/rai1.png" group-title="ITALIAN",RAI 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
