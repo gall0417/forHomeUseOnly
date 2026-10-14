@@ -1013,6 +1013,8 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Spor Yildiz" tvg-chno="8052" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtsporyildiz.png" group-title="GEO;SPORTS",TRT Spor Yildiz (TURKIYE)
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC Sports" tvg-chno="8055" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/az/cbcsport.png" group-title="GEO;SPORTS",CBC Sports (AZERBAIJAN)
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SABC 1 (Geo S. Africa)" tvg-chno="8101" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/za/sabc1.png" group-title="GEO;INT ENG",SABC 1 (S. AFRICA)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SABC 2 (Geo S. Africa)" tvg-chno="8102" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/za/sabc2.png" group-title="GEO;INT ENG",SABC 2 (S. AFRICA)
