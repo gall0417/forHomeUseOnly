@@ -703,8 +703,8 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish(English).ca" tvg-name="Al Jazeera" tvg-chno="2032" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/qa/aljazeera.png" group-title="NEWS",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-id="CNN(English).ca" tvg-name="CNN" tvg-chno="2033" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/cnn.png" group-title="NEWS",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN(English).ca" tvg-name="CNN" tvg-chno="2033" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/cnn.png" group-title="NEWS",CNN International
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FoxBusiness" tvg-chno="2050" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="NEWS",FoxBusiness
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CP24" tvg-chno="2054" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/cp24.png" group-title="NEWS;CANADA",CP24
