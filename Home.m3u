@@ -392,6 +392,8 @@ plugin://slyguy.samsung.tv.plus/?_=play&id=CAAJ3400003T7&_is_live=1&_noresume=.p
 https://fhftp.lambtonshores.ca:12243/camera2/streaming.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GB Beach Camera NW" tvg-chno="605" tvg-logo="" group-title="CAM",GB Beach Camera NW
 https://fhftp.lambtonshores.ca:12243/camera3/streaming.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Halloween Ambient Scene" tvg-chno="606" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/halloween.png" group-title="AMBIANCE",Halloween Ambient Scene
+plugin://slyguy.samsung.tv.plus/?_=play&id=CA3100004TG&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 tvg-id="" tvg-name="Willard Public Library Ghost Cams - Adult Services (1st Fl.)" tvg-chno="611" tvg-logo="" group-title="CAM",Willard Public Library Ghost Cams - Adult Services (1st Fl.)
 https://s125.ipcamlive.com/streams/7dx3tsruydbw0nq9v/stream.m3u8
