@@ -147,7 +147,7 @@ https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Greater Love TV" tvg-chno="77" tvg-logo="https://greaterlove.tv/wp-content/uploads/2025/08/WhatsApp_Image_2025-08-12_at_09.49.49_bdda8ac7-removebg-preview.png" group-title="RELIGIOUS",Greater Love TV
 https://rpn.bozztv.com/dvrfl03/itv04060/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV The Mightiest" tvg-chno="80" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2a3024b-471f-4b3f-9ff0-4b506ab7c6e7/Mightiest_Plex_FAST_HorCoverArt_3840x2160.jpg" group-title="CANADA",CTV The Mightiest
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV The Mightiest" tvg-chno="80" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f323e9b0-59d0-4a95-8fab-106cee3d095e/Mightiest_Logo_ForDarkBackgrounds_1500x1000.png" group-title="CANADA",CTV The Mightiest
 https://amg00089-amg00089c5-plex-us-3906.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild West TV" tvg-chno="81" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/usa/wildwest_banner.jpg" group-title="USA",Wild West TV
 https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
@@ -502,7 +502,7 @@ https://italian
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI 1" tvg-chno="1001" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/rai1.png" group-title="ITALIAN",RAI 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai 3" tvg-chno="1003" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/rai3.png" group-title="ITALIAN",Rai 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai 3" tvg-chno="1003" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/it/national/Rai3sudtirol.png" group-title="ITALIAN",Rai 3
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La7(src01).it" tvg-chno="1007" tvg-name="La7" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/la7.png" group-title="ITALIAN",La7
@@ -577,7 +577,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/maste
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rete Biella" tvg-chno="1102" tvg-logo="https://alpitv.com/wp-content/uploads/2022/01/logo.png" group-title="ITALIAN",Rete Biella
 https://sb.top-ix.org/retebiella/streaming/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai 3 Sudtirol" tvg-chno="1103" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/it/national/Rai3sudtirol.png" group-title="ITALIAN",Rai 3 Sudtirol
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai 3 Sudtirol" tvg-chno="1103" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/rai3.png" group-title="ITALIAN",Rai 3 Sudtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecity Valle d'Aosta" tvg-chno="1104" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/italy/T-aosta.png" group-title="ITALIAN",Telecity Valle d'Aosta
 https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
@@ -1275,7 +1275,7 @@ https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV Gridlock" tvg-chno="10070" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c147d5a8-6a75-4446-a21f-24ecaead8252/CTVGridlock_Logo_ForDarkBackgrounds_1500x1000.png" group-title="CANADA;GG",CTV Gridlock
 https://jmp2.uk/stvp-CA14000105P
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV The Mightiest" tvg-chno="10080" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2a3024b-471f-4b3f-9ff0-4b506ab7c6e7/Mightiest_Plex_FAST_HorCoverArt_3840x2160.jpg" group-title="CANADA",CTV The Mightiest
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV The Mightiest" tvg-chno="10080" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f323e9b0-59d0-4a95-8fab-106cee3d095e/Mightiest_Logo_ForDarkBackgrounds_1500x1000.png" group-title="CANADA",CTV The Mightiest
 https://jmp2.uk/stvp-CA1400009E5
 
 #EXTINF:-1 tvg-id="Three.+1.nz (src05)" tvg-name="Three +1 New Zealand" tvg-chno="10083" tvg-logo="https://i.mjh.nz/.images/three-plus1.png" group-title="INT ENG",Three +1 New Zealand
