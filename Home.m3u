@@ -89,9 +89,9 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="WPXN-DT.us_locals1 (src05)" tvg-name="ion Television" tvg-chno="47" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/ion.png" group-title="USA",ion Television
 plugin://slyguy.pluto.tv.provider/?_=play&id=65453f30085df200085883d8&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="IONPSTR.us" tvg-name="ion Plus" tvg-chno="48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/800px-Ion_Plus_2024.svg.png" group-title="USA",ion Plus
-https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
+plugin://slyguy.samsung.tv.plus/?_=play&id=USBD300003LK&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="IMYSSTR.us" tvg-name="ion Mystery" tvg-chno="49" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/ionmystery.png" group-title="USA",ion Mystery
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCPRES.us" tvg-name="Stories by AMC" tvg-chno="50" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/storiesAMC.png" group-title="USA",Stories by AMC
 plugin://slyguy.plex.live/?_=play&id=5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="GRITX.us" tvg-name="Grit Xtra" tvg-logo="https://www.grittv.com/static/media/gritxtra-logo-filled.62136a3e5a0d018b8546.png" group-title="USA",Grit Xtra
@@ -1299,11 +1299,6 @@ plugin://slyguy.plex.live/?_=play&id=647f8d22a2fc3fadb4721685-65b28dd28f05102bce
 
 #EXTINF:-1 tvg-id="Bravo.+1.nz" tvg-name="Bravo +1 New Zealand" tvg-chno="10040" tvg-logo="https://i.mjh.nz/.images/bravo-plus1.png" group-title="INT ENG",Bravo +1 New Zealand
 https://i.mjh.nz/.r/bravo-plus1.m3u8
-
-#EXTINF:-1 tvg-id="IONPSTR.us" tvg-name="ion Plus" tvg-chno="10048" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/800px-Ion_Plus_2024.svg.png" group-title="USA",ion Plus
-plugin://slyguy.samsung.tv.plus/?_=play&id=USBD300003LK&_is_live=1&_noresume=.pvr
-#EXTINF:-1 tvg-id="IMYSSTR.us" tvg-name="ion Mystery" tvg-chno="10049" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/ionmystery.png" group-title="USA",ion Mystery
-https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV Gridlock" tvg-chno="10070" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c147d5a8-6a75-4446-a21f-24ecaead8252/CTVGridlock_Logo_ForDarkBackgrounds_1500x1000.png" group-title="CANADA",CTV Gridlock
