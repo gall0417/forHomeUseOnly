@@ -5,7 +5,7 @@ http://192.168.68.88:5004/auto/ch13-1
 http://192.168.68.88:5004/auto/ch35-1
 #EXTINF:-1 tvg-id="CIII.ca" tvg-name="Global TV Toronto" tvg-chno="3" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/GlobalToronto.png" group-title="ANTENNA;CANADA",Global TV Toronto
 http://192.168.68.88:5004/auto/ch17-1
-#EXTINF:-1 tvg-id="CICA.ca" tvg-name="TVO" tvg-chno="4" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/TVO-ME.png" group-title="ANTENNA;CANADA",TVO
+#EXTINF:-1 tvg-id="CICA.ca" tvg-name="TVO" tvg-chno="4" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/tvontario_2022svg.png" group-title="ANTENNA;CANADA",TVO
 http://192.168.68.88:5004/auto/ch19-1
 #EXTINF:-1 tvg-id="CBLTDT.ca" tvg-name="CBC Toronto" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Toronto.png" group-title="ANTENNA;CANADA",CBC Toronto
 http://192.168.68.88:5004/auto/ch20-3
@@ -1283,7 +1283,7 @@ http://192.168.68.88:5004/auto/ch8-1
 http://192.168.68.88:5004/auto/ch10-1
 #EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="Global TV Toronto (Paris)" tvg-chno="10003" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/GlobalToronto.png" group-title="ANTENNA;CANADA",Global TV Toronto (Paris)
 http://192.168.68.88:5004/auto/ch23-1
-#EXTINF:-1 tvg-id="TVO(English).ca" tvg-name="TVO" tvg-chno="10004" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/tvo.png" group-title="ANTENNA;CANADA",TVO (Paris)
+#EXTINF:-1 tvg-id="TVO(English).ca" tvg-name="TVO" tvg-chno="10004" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/tvontario_2022svg.png" group-title="ANTENNA;CANADA",TVO (Paris)
 http://192.168.68.88:5004/auto/ch22-1
 #EXTINF:-1 tvg-id="CBCToronto(English).ca" tvg-name="CBC Toronto" tvg-chno="10005" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Toronto.png" group-title="CANADA",CBC Toronto (web)
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000033/CBCRCLINEAR_TOR_ETT/master_3000.m3u8
