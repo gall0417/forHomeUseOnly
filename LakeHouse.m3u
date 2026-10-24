@@ -667,6 +667,8 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay/hls/raiplay_2400/chun
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay2/hls/raiplay2_2400/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI Play 3" tvg-chno="1603" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RaiPlay.svg/320px-RaiPlay.svg.png" group-title="ITALIAN",RAI Play 3
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/raiplay3_2400/chunklist.m3u8
+#EXTINF:-1 tvg-id="RaiWorldPremium.au (src09)" tvg-name="RAI World Premium Australia" tvg-chno="1605" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/raiworldpremium.png" group-title="ITALIAN",RAI World Premium Australia
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uni Nettuno University TV" tvg-chno="1701" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/uninettuno.png" group-title="ITALIAN",Uni Nettuno University TV
 http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleTicino(src01).ch" tvg-name="TeleTicino" tvg-chno="1900" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ch/teleticino.png" group-title="ITALIAN",TeleTicino
