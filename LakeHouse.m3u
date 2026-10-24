@@ -761,6 +761,8 @@ https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alkass 7" tvg-chno="3037" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/qa/alkass7.png" group-title="SPORTS",Alkass 7
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SportItalia" tvg-chno="3060" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/sportitalia.png" group-title="ITALIAN;SPORTS",SportItalia
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-chno="3090" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/refs/heads/master/in/ddsports.png" group-title="SPORTS",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARSPORTS 1" tvg-chno="3091" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/refs/heads/master/in/starsports1.png" group-title="SPORTS",STARSPORTS 1
