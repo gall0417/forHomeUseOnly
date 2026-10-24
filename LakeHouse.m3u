@@ -65,6 +65,8 @@ https://2-fss-2.streamhoster.com/pl_120/201950-1309230-1/playlist.m3u8
 plugin://slyguy.samsung.tv.plus/?_=play&id=CABD1200007HY&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="BBCBBM.us" tvg-name="BritBox Mysteries" tvg-chno="35" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="INT ENG;ML",BritBox Mysteries
 plugin://slyguy.pluto.tv.provider/?_=play&id=60f5d389985a0c0007357304&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="" tvg-name="Homeful" tvg-chno="36" tvg-logo="https://homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" group-title="CANADA",Homeful
+https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Taiwan Plus" tvg-chno="37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LOGO_CMYK%E5%8D%B0%E5%88%B7%E8%89%B2_03.svg/800px-LOGO_CMYK%E5%8D%B0%E5%88%B7%E8%89%B2_03.svg.png" group-title="INT ENG",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWRLD.us" tvg-name="NHK World" tvg-chno="38" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/jp/nhkworld.png" group-title="INT ENG",NHK World
