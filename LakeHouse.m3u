@@ -659,7 +659,7 @@ https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA TeleVideo Agrigento" tvg-chno="1492" tvg-logo="https://www.codelinsoft.it/sito/images/2018/11/11/logo.png" group-title="ITALIAN",TVA TeleVideo Agrigento
 https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiItalia(src09).br" tvg-name="RAI Italia Sud America" tvg-chno="1600" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/raiitalia.png" group-title="ITALIAN",RAI Italia Sud America
+#EXTINF:-1 tvg-id="RaiItalia.au (src09)" tvg-name="RAI Italia Australia" tvg-chno="1600" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/raiitalia.png" group-title="ITALIAN",RAI Italia Australia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI Play 1" tvg-chno="1601" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RaiPlay.svg/320px-RaiPlay.svg.png" group-title="ITALIAN",RAI Play 1
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay/hls/raiplay_2400/chunklist.m3u8
