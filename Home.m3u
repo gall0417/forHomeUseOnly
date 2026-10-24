@@ -851,13 +851,10 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 2" tvg-chno="3002" tvg-logo="https://korafoot.com/wp-content/uploads/2023/02/Bahrain-Sport-2_live.png" group-title="SPORTS",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jordan Sports" tvg-chno="3008" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/jo/jordansport.png" group-title="SPORTS",Jordan Sports
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IRIB Varzesh" tvg-chno="3009" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ir/varzesh.png" group-title="SPORTS",IRIB Varzesh
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/2.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah Sports" tvg-chno="3011" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ae/sharjahsports.png" group-title="SPORTS",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah Sports 2" tvg-chno="3012" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ae/sharjahsports.png" group-title="SPORTS",Sharjah Sports 2
-https://svs.itworkscdn.net/smc4sports2live/sports2.smil/smc4sports2publish/sports2_source/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuwait Sport" tvg-chno="3021" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktvsport.png" group-title="SPORTS",Kuwait Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
