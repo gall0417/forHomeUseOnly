@@ -735,6 +735,8 @@ http://sports
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 2" tvg-chno="3002" tvg-logo="https://korafoot.com/wp-content/uploads/2023/02/Bahrain-Sport-2_live.png" group-title="SPORTS",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El-Haddaf TV" tvg-chno="3007" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/dz/elheddaftv.png" group-title="SPORTS",El-Haddaf TV
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jordan Sports" tvg-chno="3008" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/jo/jordansport.png" group-title="SPORTS",Jordan Sports
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IRIB Varzesh" tvg-chno="3009" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ir/varzesh.png" group-title="SPORTS",IRIB Varzesh
