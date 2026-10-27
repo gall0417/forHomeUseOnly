@@ -1123,6 +1123,8 @@ http://192.168.68.88:5004/auto/ch23-1
 http://192.168.68.88:5004/auto/ch22-1
 #EXTINF:-1 tvg-id="CBCToronto(English).ca" tvg-name="CBC Toronto" tvg-chno="10005" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/CBC/CBC_Toronto.png" group-title="CANADA",CBC Toronto (web)
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000033/CBCRCLINEAR_TOR_ETT/master_3000.m3u8
+#EXTINF:-1 tvg-id="CITYDT.ca" tvg-name="CityTV" tvg-chno="10007" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/Sregor/CityTV-Toronto.png" group-title="ANTENNA;CANADA",CityTV
+http://192.168.68.88:5004/auto/ch31-2
 #EXTINF:-1 tvg-id="CBLFTDT(French).ca" tvg-name="Radio-Canada Ontario" tvg-chno="10008" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_Ontario.png" group-title="CANADA",Radio-Canada Ontario (web)
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
 #EXTINF:-1 tvg-id="WNYWDT.us" tvg-name="FOX" tvg-chno="10015" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/fox.png" group-title="USA",FOX 5 New York
