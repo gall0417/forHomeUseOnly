@@ -1089,6 +1089,8 @@ https://yunmei.tv/main/FOX.m3u8
 plugin://slyguy.plex.live/?_=play&id=647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a7910&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bravo +1 New Zealand" tvg-chno="10040" tvg-logo="https://i.mjh.nz/.images/bravo-plus1.png" group-title="INT ENG",Bravo +1 New Zealand
 https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 tvg-id="GRITX.us" tvg-name="Grit Xtra" tvg-chno="10051" tvg-logo="https://www.grittv.com/static/media/gritxtra-logo-filled.62136a3e5a0d018b8546.png" group-title="USA",Grit Xtra
+https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="10056" tvg-name="Roar" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/roar.png" group-title="USA;GG",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV Gridlock" tvg-chno="10070" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c147d5a8-6a75-4446-a21f-24ecaead8252/CTVGridlock_Logo_ForDarkBackgrounds_1500x1000.png" group-title="CANADA;GG",CTV Gridlock
