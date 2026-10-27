@@ -27,8 +27,6 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WXYZ" tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/abc7.png" group-title="USA",ABC
 http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WNYWDT.us" tvg-name="FOX 5 NY" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/fox.png" group-title="USA",FOX 5 NY
-http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-id="BINGETV.us" tvg-name="Binge" tvg-chno="18" tvg-logo="https://ibinge.tv/wp-content/uploads/2023/04/small-logo.png" group-title="USA",Binge
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TSC.ca" tvg-name="The Shopping Channel" tvg-chno="19" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/tsc.png" group-title="CANADA",The Shopping Channel
@@ -1127,8 +1125,6 @@ https://cbcrclinear-tor2.akamaized.net/hls/live/20000033/CBCRCLINEAR_TOR_ETT/mas
 http://192.168.68.88:5004/auto/ch31-2
 #EXTINF:-1 tvg-id="CBLFTDT(French).ca" tvg-name="Radio-Canada Ontario" tvg-chno="10008" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_Ontario.png" group-title="CANADA",Radio-Canada Ontario (web)
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
-#EXTINF:-1 tvg-id="WNYWDT.us" tvg-name="FOX" tvg-chno="10015" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/fox.png" group-title="USA",FOX 5 New York
-https://yunmei.tv/main/FOX.m3u8
 #EXTINF:-1 tvg-id="CBCCMDY.us" tvg-name="CBC Comedy" tvg-chno="10027" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d855cd9-0673-4bfc-a12d-efa4e26176f6/CBCComedy_ColourOnBlackBkgd_PlexTV_1500x1000_-_Catherine_Cook.png" group-title="CANADA",CBC Comedy
 plugin://slyguy.plex.live/?_=play&id=647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a7910&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="Bravo.+1.nz" tvg-name="Bravo +1 New Zealand" tvg-chno="10040" tvg-logo="https://i.mjh.nz/.images/bravo-plus1.png" group-title="INT ENG",Bravo +1 New Zealand
