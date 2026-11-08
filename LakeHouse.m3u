@@ -1059,6 +1059,8 @@ plugin://slyguy.samsung.tv.plus/?_=play&id=ESBC4100002AG&_is_live=1&_noresume=.p
 https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w746916372.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Whakaata Māori" tvg-chno="9005" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/nz/maori.png" group-title="OTHER INT",Whakaata Māori
 https://i.mjh.nz/.r/maori-tv.m3u8
+#EXTINF:-1 tvg-id="WFUT.us (src09)" tvg-name="Unimás East" tvg-chno="9009" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/univision.png" group-title="OTHER INT",Unimás East (WFUT-DT)
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 #EXTINF:-1 tvg-id="WXTV.us (src09)" tvg-name="Univision East" tvg-chno="9010" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/univision.png" group-title="OTHER INT",Univision East (WXTV-DT)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:-1 tvg-id="RTL(German).de" tvg-name="RTL" tvg-chno="9011" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/de/rtl.png" group-title="OTHER INT",RTL
@@ -1175,6 +1177,8 @@ https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000041/CBCRCLINEAR_TOR_PTV/master_3000.m3u8
 #EXTINF:-1 tvg-id="OMNIVancouver(English).ca" tvg-name="OMNIBC" tvg-chno="24002" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/INMO/omniBC.png" group-title="CANADA",OMNIBC
 https://omnibcnextgen.akamaized.net/6387421119112/us-west-2/89871584001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYmR6eXpkLmVncmVzcy5rdjl5ZGgiLCJhY2NvdW50X2lkIjoiODk4NzE1ODQwMDEiLCJlaG4iOiJvbW5pYmNuZXh0Z2VuLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjg5ODcxNTg0MDAxIl0sImp0aSI6IjYzODc0MjExMTkxMTIifQ.cELU0ZtxFoKzlMqj_GajGwXfGvw9nyTkk0PLwjt8GAA/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unimás West" tvg-chno="24009" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/univision.png" group-title="OTHER INT",Unimás West (KFTR-DT)
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:-1 tvg-id="KMEXDT.us" tvg-name="Univision West" tvg-chno="24010" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/univision.png" group-title="OTHER INT",Univision West (KMEX-DT)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1 tvg-id="CBUFTDT(French).ca" tvg-name="Radio-Canada Colombie-Britannique" tvg-chno="24011" tvg-logo="https://crazy-kookiez-tv.neocities.org/channel_logos/SRC/ICI_BC.png" group-title="CANADA",Radio-Canada Colombie-Britannique
