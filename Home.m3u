@@ -901,8 +901,8 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-chno="3521" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ge/setantasports1.png" group-title="SPORTS",Setanta Sports 1 HD RU
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:-1 tvg-chno="3522" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ge/setantasports2.png" group-title="SPORTS",Setanta Sports 2 HD RU
-http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1 tvg-chno="3522" tvg-id="Setanta Sports 2.ru (src09)" tvg-name="Sentanta Sports 2" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ge/setantasports2.png" group-title="SPORTS",Setanta Sports 2 HD RU
+http://85.117.61.84/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1(English).de" tvg-name="EuroSport 1 RU" tvg-chno="3531" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" group-title="SPORTS",EuroSport 1 RU
 https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2(English).de" tvg-name="EuroSport 2 RU" tvg-chno="3532" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" group-title="SPORTS",EuroSport 2 RU
