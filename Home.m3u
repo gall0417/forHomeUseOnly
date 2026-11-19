@@ -283,6 +283,8 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fireplace 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20240116T231308SQUARE.png_20240116231309.png" group-title="4K",Fireplace 4K
 plugin://slyguy.samsung.tv.plus/?_=play&id=USBA3800004EL&_is_live=1&_noresume=.pvr
+#EXTINF:-1 tvg-id="Eurosport1(English).de" tvg-name="EuroSport 4K CZ" tvg-chno="411" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/eurosport4k.png" group-title="SPORTS",EuroSport 4K CZ
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]French Channels[/COLOR]" tvg-chno="500" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/flags/france.png" group-title="LABEL",[COLOR aqua]French Language Channels[/COLOR]
 https://french
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/tf1.png" group-title="FR INT;FRANCE",TF1
