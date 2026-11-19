@@ -493,6 +493,10 @@ https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="SMtvSanMarino(src01).it" tvg-name="Rtv San Marino" tvg-chno="1073" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sm/rtv.png" group-title="ITALIAN",[COLOR red]Rtv San Marino - OFFLINE[/COLOR]
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_slita.m3u8
+#EXTINF:-1 tvg-id="Eurosport1(English).de" tvg-name="EuroSport 1 IT" tvg-chno="1091" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" group-title="SPORTS",EuroSport 1 IT
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2(English).de" tvg-name="EuroSport 2 IT" tvg-chno="1092" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" group-title="SPORTS",EuroSport 2 IT
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="SMtvSanMarinoSport(src01).it" tvg-name="Rtv San Marino Sport" tvg-chno="1093" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sm/rtvsport.png" group-title="ITALIAN",[COLOR red]Rtv San Marino Sport - OFFLINE[/COLOR]
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PrimAntenna" tvg-chno="1101" tvg-logo="https://www.primantenna.tv/wp-content/uploads/2017/12/primantenna_logo_retina-1-300x99.png" group-title="ITALIAN",PrimAntenna
@@ -898,9 +902,9 @@ http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:-1 tvg-chno="3522" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ge/setantasports2.png" group-title="SPORTS",Setanta Sports 2 HD RU
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1(English).de" tvg-name="EuroSport 1 RU" tvg-chno="3531" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" group-title="SPORTS",EuroSport 1 RU
-http://5.188.159.128:8070/eurosport1/index.m3u8
+https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2(English).de" tvg-name="EuroSport 2 RU" tvg-chno="3532" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" group-title="SPORTS",EuroSport 2 RU
-http://5.188.159.128:8070/eurosport2/index.m3u8
+https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV 5" tvg-chno="3550" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/cn/cctv5.png" group-title="SPORTS",CCTV 5
 https://live.huarenlivewebsite1.top/stream/CCTV5_MG.m3u8?auth=HtoaqbN7q6OCL9zc-tmaNdi9hZ0Fd9kszDYmVu_17YI=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV 5+" tvg-chno="3555" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/cn/cctv5plus.png" group-title="SPORTS",CCTV 5+
