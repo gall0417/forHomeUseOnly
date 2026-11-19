@@ -830,7 +830,7 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 tvg-id="FloHockey.us@HD" tvg-chno="3130" tvg-logo="https://media.chl.ca/wp-content/uploads/sites/37/2026/03/09145108/stacked-ignitewhite-Hockey-768x379.png" group-title="SPORTS",FloHockey
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN(src01).us" tvg-name="ESPN" tvg-chno="3131" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn.png" group-title="SPORTS",ESPN
-http://41.205.93.154/ESPN/index.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-chno="3132" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn2.png" group-title="SPORTS;USA",ESPN 2
 http://nor1live.win:80/livehttpplay?channel_id=23123
 #EXTINF:-1 tvg-id="FloRacing.us@HD" tvg-chno="3139" tvg-logo="https://cdn.prod.website-files.com/62b4844bdbb5f580ecc9e019/6601d8d14c74bdd3d393b236_FloRacing-ignite%2Bwhite-p-1080.png" group-title="SPORTS",FloRacing
