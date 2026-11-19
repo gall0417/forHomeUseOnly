@@ -832,7 +832,7 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 #EXTINF:-1 tvg-id="ESPN(src01).us" tvg-name="ESPN" tvg-chno="3131" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn.png" group-title="SPORTS",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-chno="3132" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn2.png" group-title="SPORTS;USA",ESPN 2
-http://nor1live.win:80/livehttpplay?channel_id=23123
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="FloRacing.us@HD" tvg-chno="3139" tvg-logo="https://cdn.prod.website-files.com/62b4844bdbb5f580ecc9e019/6601d8d14c74bdd3d393b236_FloRacing-ignite%2Bwhite-p-1080.png" group-title="SPORTS",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="3140" tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="SPORTS",MLB Network
