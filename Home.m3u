@@ -879,14 +879,16 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 http://188.225.31.197/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:-1 tvg-id="Матч! ТВ.ru (src09)" tvg-name="Match!" tvg-chno="3500" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/match.png" group-title="SPORTS",Матч!
 http://45.132.87.69:8080/match/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match! Football 1" tvg-chno="3501" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/matchfootball1.png" group-title="SPORTS",Матч! Football 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match! Football 1" tvg-chno="3501" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/matchfootball1.png" group-title="SPORTS",Матч! Футбол 1
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match! Football 2" tvg-chno="3502" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/matchfootball2.png" group-title="SPORTS",Матч! Football 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match! Football 2" tvg-chno="3502" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/matchfootball2.png" group-title="SPORTS",Матч! Футбол 2
 http://31.148.5.241/Match_Football_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match! Football 3" tvg-chno="3503" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/matchfootball3.png" group-title="SPORTS",Матч! Football 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match! Football 3" tvg-chno="3503" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/matchfootball3.png" group-title="SPORTS",Матч! Футбол 3
 http://31.148.5.241/Match_Football_3_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match! Planeta" tvg-chno="3508" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/matchplaneta.png" group-title="SPORTS",Матч! Planeta
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match! Planeta" tvg-chno="3508" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/matchplaneta.png" group-title="SPORTS",Матч! Планета
 https://adpnetworkhd-cmd.github.io/iptv/MatchPlaneta.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match! Premier" tvg-chno="3509" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/matchpremier.png" group-title="SPORTS",Матч! Премьер
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL" tvg-chno="3511" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/khl.png" group-title="SPORTS",KHL
 https://fs.uplink.kz/telekanal_khl/index.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL Prime" tvg-chno="3512" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/khlprime.png" group-title="SPORTS",KHL Prime
