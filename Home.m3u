@@ -197,10 +197,10 @@ http://192.168.68.88:5004/auto/ch30-2
 http://192.168.68.88:5004/auto/ch26-3
 #EXTINF:-1 tvg-id="ABCKidsABCFamilyNSW.au" tvg-name="ABC Family" tvg-chno="143" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" group-title="INT ENG",ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 channel-id="mjh-10-nicktoons-90s" tvg-id="mjh-10-nicktoons-90s" tvg-chno="145" tvg-logo="https://10.com.au/ip/s3/2024/06/07/a1aaf63737e7d2076759dd850b58471a-1319376.png?image-profile=logo" group-title="INT ENG",NickToons 90s Australia
+https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NY48 (WWON)" tvg-chno="148" tvg-logo="https://static.wixstatic.com/media/5dbffb_39f6c4ac53bd4c759409e2af90c2d3db~mv2.png/v1/fill/w_343,h_256,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ny48mainlogo2.png" group-title="INT ENG;USA",NY48 (WWON)
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
-#EXTINF:-1 channel-id="" tvg-chno="170" tvg-logo="https://images.pluto.tv/channels/656df2849d5ac400083be647/colorLogoPNG.png" group-title="INT ENG;UK",Channel 5 Trucking Hell
-plugin://slyguy.pluto.tv.provider/?_=play&id=656df2849d5ac400083be647&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 200" tvg-chno="200" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/nz/ch200.png" group-title="INT ENG",Channel 200
 plugin://plugin.video.nz.freeview/?_=play&slug=mjh-ch200&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RakutenTV Crime Italy" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/Rakuten/512px-Rakuten_TV_logo-blue.png" group-title="ITALIAN",RakutenTV Crime Italy
