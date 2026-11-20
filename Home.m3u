@@ -495,6 +495,8 @@ https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="SMtvSanMarino(src01).it" tvg-name="Rtv San Marino" tvg-chno="1073" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sm/rtv.png" group-title="ITALIAN",[COLOR red]Rtv San Marino - OFFLINE[/COLOR]
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_slita.m3u8
+#EXTINF:-1 tvg-id="Milan.TV.it (src05)" tvg-name="Milan TV" tvg-chno="1090" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/milantv.png" group-title="ITALIAN;SPORTS",Milan TV
+http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1(English).de" tvg-name="EuroSport 1 IT" tvg-chno="1091" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" group-title="SPORTS",EuroSport 1 IT
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2(English).de" tvg-name="EuroSport 2 IT" tvg-chno="1092" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" group-title="SPORTS",EuroSport 2 IT
