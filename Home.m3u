@@ -47,7 +47,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000042/CBCRCLINEAR_TOR_CBCNN/master_3000.m3u8
 #EXTINF:-1 tvg-id="CBCCMDY.us" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/cbccomedy.png" group-title="CANADA",CBC Comedy
 https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="28" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63b45fd9-507a-4a21-a8ef-7c4e7503e4af/CTVatHome_Plex_FAST_HorCoverArt_3840x2160.jpg" group-title="CANADA",CTV @Home
+#EXTINF:-1 tvg-id="" tvg-chno="28" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9c6ea13d-726d-40b7-9153-97e9dec7af7f/CTVatHome_Logo_ForLightBackgrounds_1500x1000.png" group-title="CANADA",CTV @Home
 https://amg00089-amg00089c9-plex-us-3907.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBCkids" tvg-chno="29" tvg-logo="https://i.cbc.ca/ais/38b30f2f-14c2-44e7-bf9d-45db30364c89,1761245792268/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B?impolicy=ott&im=Resize=700&quality=100" group-title="CANADA;KIDS",CBCkids
 https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
