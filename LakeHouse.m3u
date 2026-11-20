@@ -800,7 +800,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports" tvg-chno="3110" tvg-logo="https://image.roku.com/bh-uploads/production/infoHUDLogo/1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORTS",FOX Sports
 plugin://slyguy.samsung.tv.plus/?_=play&id=US2700001QY&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="TennisChannel.uk" tvg-name="Tennis Channel" tvg-chno="3111" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tennischannel.png" group-title="SPORTS",Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T2" tvg-chno="3112" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tennischannel2.png" group-title="SPORTS",T2
 plugin://slyguy.samsung.tv.plus/?_=play&id=USBC600001QL&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="TheFightNetwork(English).ca" tvg-chno="3113" tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/fightnetwork.png" group-title="SPORTS",Fight Network
@@ -832,7 +832,7 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Women's Sports Network" tvg-chno="3127" tvg-logo="https://womenssports.com/wp-content/uploads/2024/07/smallWSNShortLogoFuego-1.png" group-title="SPORTS",Women's Sports Network
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-chno="3128" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espnu.png" group-title="SPORTS",ESPN U
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="FloHockey.us@HD" tvg-chno="3130" tvg-logo="https://media.chl.ca/wp-content/uploads/sites/37/2026/03/09145108/stacked-ignitewhite-Hockey-768x379.png" group-title="SPORTS",FloHockey
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN(src01).us" tvg-name="ESPN" tvg-chno="3131" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn.png" group-title="SPORTS",ESPN
@@ -859,12 +859,16 @@ plugin://slyguy.samsung.tv.plus/?_=play&id=FRBC4200004XH&_is_live=1&_noresume=.p
 plugin://slyguy.samsung.tv.plus/?_=play&id=FRBC4200005X2&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="INFOSPORT+.sn (src09)" tvg-name="InfoSport +" tvg-chno="3203" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/infosportplus.png" group-title="FR INT;SPORTS",InfoSport +
 http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1(English).de" tvg-name="EuroSport 1 FR" tvg-chno="3211" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" group-title="SPORTS",EuroSport 1 FR
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2(English).de" tvg-name="EuroSport 2 FR" tvg-chno="3212" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" group-title="SPORTS",EuroSport 2 FR
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="L'Equipe" tvg-chno="3221" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/lequipetv.png" group-title="FR INT;SPORTS",L'Equipe
 plugin://slyguy.samsung.tv.plus/?_=play&id=FR200016Y5&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="AFRICA 24 SPORT.sn (src09)" tvg-name="Africa 24 Sport" tvg-chno="3224" tvg-logo="https://i2.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png" group-title="FR INT;SPORTS",Africa 24 Sport
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Šport" tvg-chno="3300" tvg-logo="" group-title="SPORTS",Šport
-https://joj.exchand13.workers.dev/OE8iUSCBeLn8CIb0mL57.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Šport" tvg-chno="3300" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sk/rtvssport.png" group-title="SPORTS",Šport
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-chno="3400" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kz/qazsport.png" group-title="SPORTS",QazSport
 http://188.225.31.197/bpk-tv/000003038/tve/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="3401" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kz/qsport.png" group-title="SPORTS",Q Sport
@@ -1063,7 +1067,9 @@ http://tempINT
 plugin://slyguy.samsung.tv.plus/?_=play&id=ESBC4100001NZ&_is_live=1&_noresume=.pvr
 #EXTINF:-1 tvg-id="La2(Spanish).es" tvg-name="La2 (SPAIN)" tvg-chno="9002" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/la2.png" group-title="OTHER INT",La2 (SPAIN)
 plugin://slyguy.samsung.tv.plus/?_=play&id=ESBC4100002AG&_is_live=1&_noresume=.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleAruba" tvg-chno="9003" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/aw/telearuba.png" group-title="OTHER INT",TeleAruba
+#EXTINF:-1 tvg-id="Матч! ТВ.ru (src09)" tvg-name="Match!" tvg-chno="9003" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/match.png" group-title="SPORTS",Матч!
+http://31.148.5.241/kanal_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleAruba" tvg-chno="9004" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/aw/telearuba.png" group-title="OTHER INT",TeleAruba
 https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w746916372.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Whakaata Māori" tvg-chno="9005" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/nz/maori.png" group-title="OTHER INT",Whakaata Māori
 https://i.mjh.nz/.r/maori-tv.m3u8
@@ -1137,6 +1143,8 @@ http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL" tvg-chno="13511" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/khl.png" group-title="SPORTS",KHL
 https://a3569457567-s70378.cdn.ngenix.net/kxl/1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Sport" tvg-chno="13514" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/vijusport.png" group-title="SPORTS",Viju+ Sport
+http://31.148.5.241/Viasat_Sport/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVNZ 1 (NEW ZEALAND)" tvg-chno="18201" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/nz/tvnz1.png" group-title="INT ENG",TVNZ 1 (GEO NEW ZEALAND)
 https://i.mjh.nz/.r/tvnz-1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVNZ 2 (NEW ZEALAND)" tvg-chno="18202" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/nz/tvnz2.png" group-title="INT ENG",TVNZ 2 (GEO NEW ZEALAND)
