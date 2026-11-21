@@ -827,7 +827,7 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV.m3u8
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHRA TV" tvg-chno="3125" tvg-logo="hhttps://static.wixstatic.com/media/2472cb_7767db48114c46c7b6211c342a7e8fd2~mv2.png" group-title="SPORTS",NHRA TV
 https://live-manifest.production-public.tubi.io/live/2b55583d-cfa8-440b-8f38-a0aef9950f75/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="3126" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espnnews.png" group-title="SPORTS",ESPNews
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-chno="3126" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espnnews.png" group-title="SPORTS",ESPNews
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Women's Sports Network" tvg-chno="3127" tvg-logo="https://womenssports.com/wp-content/uploads/2024/07/smallWSNShortLogoFuego-1.png" group-title="SPORTS",Women's Sports Network
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
@@ -835,7 +835,7 @@ https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playl
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="FloHockey.us@HD" tvg-chno="3130" tvg-logo="https://media.chl.ca/wp-content/uploads/sites/37/2026/03/09145108/stacked-ignitewhite-Hockey-768x379.png" group-title="SPORTS",FloHockey
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN(src01).us" tvg-name="ESPN" tvg-chno="3131" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn.png" group-title="SPORTS",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-chno="3131" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn.png" group-title="SPORTS",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-chno="3132" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn2.png" group-title="SPORTS;USA",ESPN 2
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
