@@ -694,7 +694,7 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CityNews247Toronto(English).ca" tvg-name="CityNews Toronto" tvg-chno="2007" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/citynews.png" group-title="NEWS;CANADA",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-id="ICIRDI(French).ca" tvg-name="RDI" tvg-chno="2008" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/icirdi.png" group-title="NEWS;CANADA",Réseau de l'information (RDI)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 #EXTINF:-1 tvg-id="LCN(src01).ca" tvg-name="LCN" tvg-chno="2009" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/lcn.png" group-title="NEWS;CANADA",Le Canal Nouvelles (LCN)
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS News" tvg-chno="2010" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/cbsnews.png" group-title="NEWS;USA",CBS News
