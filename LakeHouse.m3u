@@ -23,7 +23,7 @@ http://192.168.68.51:5004/auto/ch10-1
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KCWX-DT.us_locals1" tvg-name="KCWX" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/KCWX_logo_2024.png" group-title="USA",KCWX
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="ROGERS;CANADA",Rogers TV London
+#EXTINF:-1 tvg-id="RogersTVLondon.ca (src09)" tvg-type="live" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="ROGERS;CANADA",Rogers TV London
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card6/chunklist.m3u8
 #EXTINF:-1 tvg-id="WXYZDT.us" tvg-name="WXYZ" tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/abc7.png" group-title="USA ANTENNA",ABC Detroit (WXYZ) [COLOR orange]-ANTENNA-[/COLOR]
 http://192.168.68.51:5004/auto/ch25-3
