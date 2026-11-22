@@ -947,11 +947,11 @@ http://216.106.179.7:8080/ESPN6HD/index.m3u8
 http://216.106.179.7:8080/ESPN7HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-ROGERS LOCAL TV SECTION BELOW-" tvg-chno="4000" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/ca/Sregor/Rogers-Emblem.png" group-title="LABEL",-ROGERS LOCAL TV SECTION BELOW-
 https://rogers-start
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Barrie Cable 10" tvg-chno="4010" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Barrie Cable 10
+#EXTINF:-1 tvg-id="RogersTVBarrie.ca (src09)" tvg-name="Rogers TV ON: Barrie Cable 10" tvg-chno="4010" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Barrie Cable 10
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card4/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Borden-Alliston Cable 65" tvg-chno="4065" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Borden-Alliston Cable 65
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m44_card6/playlist.m3u8
-#EXTINF:-1 tvg-id="Rogers.Community.20.Kitchener.HD.ca2" tvg-name="Rogers TV ON: Brantford Cable 20" tvg-chno="4020" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Brantford/Cambridge/Kitchener/Waterloo Region Cable 20
+#EXTINF:-1 tvg-id="RogersTVWaterloo.ca (src09)" tvg-name="Rogers TV ON: Brantford Cable 20" tvg-chno="4020" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Brantford/Cambridge/Kitchener/Waterloo Region Cable 20
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m40_card8/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Collingwood Cable 53" tvg-chno="4053" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Collingwood Cable 53
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card8/chunklist.m3u8
@@ -961,15 +961,15 @@ https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card3/playlist.m3u8
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m40_card1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Georgina Cable 10" tvg-chno="4210" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Georgina Cable 10
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card5/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Grey County Cable 53" tvg-chno="4153" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Grey County Cable 53
+#EXTINF:-1 tvg-id="RogersTVOwenSound.ca (src09)" tvg-name="Rogers TV ON: Grey County Cable 53" tvg-chno="4153" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Grey County Cable 53
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m44_card1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Kawartha Lakes Cable 10" tvg-chno="4310" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Kawartha Lakes Cable 10
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m44_card2/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Kincardine Cable 6" tvg-chno="4006" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Kincardine Cable 6
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m44_card8/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: London Cable 13" tvg-chno="4013" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: London Cable 13
+#EXTINF:-1 tvg-id="RogersTVLondon.ca (src09)" tvg-name="Rogers TV ON: London Cable 13" tvg-chno="4013" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: London Cable 13
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card6/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Midland Cable 53" tvg-chno="4253" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Midland Cable 53
+#EXTINF:-1 tvg-id="RogersTVMidland.ca (src09)" tvg-name="Rogers TV ON: Midland Cable 53" tvg-chno="4253" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Midland Cable 53
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m44_card5/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Orillia Cable 10" tvg-chno="4510" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Orillia Cable 10
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card7/playlist.m3u8
@@ -977,7 +977,7 @@ https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card7/playlist.m3u8
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m44_card3/chunklist.m3u8
 #EXTINF:-1 tvg-id="Rogers Ottawa French.ca" tvg-name="Rogers TV ON: Ottawa Cable 23 Francais" tvg-chno="4023" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Ottawa Cable 23 Francais
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m44_card7/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: St. Thomas Cable 13" tvg-chno="4113" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: St. Thomas Cable 13
+#EXTINF:-1 tvg-id="RogersTVStThomas.ca (src09)" tvg-name="Rogers TV ON: St. Thomas Cable 13" tvg-chno="4113" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: St. Thomas Cable 13
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m44_card4/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV ON: Tillsonburg Cable 13" tvg-chno="4413" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL ONT",Rogers TV ON: Tillsonburg Cable 13
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card2/playlist.m3u8
@@ -985,11 +985,11 @@ https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card2/playlist.m3u8
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m42_card1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cable 14 Hamilton" tvg-chno="4014" tvg-logo="https://www.cable14.com/sites/default/files/cable14-website_logo.png" group-title="LOCAL ONT",Cable 14 Hamilton
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV NB: Bathurst Cable 10" tvg-chno="4101" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NB",Rogers TV NB: Bathurst Cable 10
+#EXTINF:-1 tvg-id="RogersTVBathurst.ca (src09)" tvg-name="Rogers TV NB: Bathurst Cable 10" tvg-chno="4101" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NB",Rogers TV NB: Bathurst Cable 10
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m43_card1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV NB: Edmundston Cable 10 Francais" tvg-chno="4102" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NB",Rogers TV NB: Edmundston Cable 10 Francais
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m43_card6/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV NB: Fredericton Cable 10" tvg-chno="4103" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NB",Rogers TV NB: Fredericton Cable 10
+#EXTINF:-1 tvg-id="RogersTVFredericton.ca (src09)" tvg-name="Rogers TV NB: Fredericton Cable 10" tvg-chno="4103" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NB",Rogers TV NB: Fredericton Cable 10
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m43_card2/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV NB: Miramichi Cable 10" tvg-chno="4104" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NB",Rogers TV NB: Miramichi Cable 10
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m43_card3/playlist.m3u8
@@ -1003,7 +1003,7 @@ https://livedrm.akamaized.net/hls/live/1021686/rtv/m43_card5/chunklist.m3u8
 https://temp3.isilive.ca/live/CHCOTV/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NACtv" tvg-chno="4601" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Naclogo.png" group-title="LOCAL MB",NACtv
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV NL: Corner Brook Cable 9" tvg-chno="4901" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NL",Rogers TV NL: Corner Brook Cable 9
+#EXTINF:-1 tvg-id="RogersTVCornerBrook.ca (src09)" tvg-name="Rogers TV NL: Corner Brook Cable 9" tvg-chno="4901" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NL",Rogers TV NL: Corner Brook Cable 9
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m37_card4/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rogers TV NL: Gander Cable 9" tvg-chno="4902" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ca/rogerstv.png" group-title="LOCAL NL",Rogers TV NL: Gander Cable 9
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m37_card1/playlist.m3u8
