@@ -833,6 +833,8 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-chno="3128" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espnu.png" group-title="SPORTS",ESPN U
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="PBTV.us" tvg-chno="3129" tvg-logo="https://images.fubo.tv/station_logos/PickleTV23_m.png" group-title="SPORTS",PickleballTV
+https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-tennischannelus/playlist.m3u8
 #EXTINF:-1 tvg-id="FloHockey.us@HD" tvg-chno="3130" tvg-logo="https://media.chl.ca/wp-content/uploads/sites/37/2026/03/09145108/stacked-ignitewhite-Hockey-768x379.png" group-title="SPORTS",FloHockey
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-chno="3131" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/espn.png" group-title="SPORTS",ESPN
