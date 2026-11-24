@@ -283,7 +283,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fireplace 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20240116T231308SQUARE.png_20240116231309.png" group-title="4K",Fireplace 4K
 plugin://slyguy.samsung.tv.plus/?_=play&id=USBA3800004EL&_is_live=1&_noresume=.pvr
-#EXTINF:-1 tvg-id="Eurosport1(English).de" tvg-name="EuroSport 4K CZ" tvg-chno="411" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/eurosport4k.png" group-title="SPORTS",EuroSport 4K CZ
+#EXTINF:-1 tvg-id="Eurosport4K.sk (src01)" tvg-name="EuroSport 4K CZ" tvg-chno="411" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ru/eurosport4k.png" group-title="SPORTS",EuroSport 4K CZ
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[COLOR aqua]French Channels[/COLOR]" tvg-chno="500" tvg-logo="https://raw.githubusercontent.com/gall0417/forHomeUseOnly/main/logos/flags/france.png" group-title="LABEL",[COLOR aqua]French Language Channels[/COLOR]
 https://french
@@ -497,9 +497,9 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream02/stre
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_slita.m3u8
 #EXTINF:-1 tvg-id="Milan.TV.it (src05)" tvg-name="Milan TV" tvg-chno="1090" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/it/milantv.png" group-title="ITALIAN;SPORTS",Milan TV
 http://team-tv.co:81/milan/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1(English).de" tvg-name="EuroSport 1 IT" tvg-chno="1091" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" group-title="SPORTS",EuroSport 1 IT
+#EXTINF:-1 tvg-id="EUROSGR.it" tvg-name="EuroSport 1 IT" tvg-chno="1091" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" group-title="SPORTS",EuroSport 1 IT
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2(English).de" tvg-name="EuroSport 2 IT" tvg-chno="1092" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" group-title="SPORTS",EuroSport 2 IT
+#EXTINF:-1 tvg-id="Eurosport2.it (src01)" tvg-name="EuroSport 2 IT" tvg-chno="1092" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" group-title="SPORTS",EuroSport 2 IT
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="SMtvSanMarinoSport(src01).it" tvg-name="Rtv San Marino Sport" tvg-chno="1093" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sm/rtvsport.png" group-title="ITALIAN",[COLOR red]Rtv San Marino Sport - OFFLINE[/COLOR]
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
@@ -911,9 +911,9 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:-1 tvg-chno="3522" tvg-id="Setanta Sports 2.ru (src09)" tvg-name="Sentanta Sports 2" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/ge/setantasports2.png" group-title="SPORTS",Setanta Sports 2 HD RU
 http://85.117.61.84/setanta2/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1(English).de" tvg-name="EuroSport 1 RU" tvg-chno="3531" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" group-title="SPORTS",EuroSport 1 RU
+#EXTINF:-1 tvg-id="Eurosport 1 HD.ru (src09)" tvg-name="EuroSport 1 RU" tvg-chno="3531" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" group-title="SPORTS",EuroSport 1 RU
 https://s7.iptv-24.net/1439/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2(English).de" tvg-name="EuroSport 2 RU" tvg-chno="3532" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" group-title="SPORTS",EuroSport 2 RU
+#EXTINF:-1 tvg-id="Eurosport 2 HD.ru (src09)" tvg-name="EuroSport 2 RU" tvg-chno="3532" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" group-title="SPORTS",EuroSport 2 RU
 https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV 5" tvg-chno="3550" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/cn/cctv5.png" group-title="SPORTS",CCTV 5
 https://live.huarenlivewebsite1.top/stream/CCTV5_MG.m3u8?auth=HtoaqbN7q6OCL9zc-tmaNdi9hZ0Fd9kszDYmVu_17YI=
